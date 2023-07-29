@@ -1,6 +1,6 @@
 # Analog Clock
 
-![Analog Clock](./images/clock2.png)
+![Analog Clock](./images/clock3.png)
 
 The Analog Clock is a simple, interactive clock application that displays the time in a traditional analog format. This project aims to provide a visually appealing and user-friendly representation of the current time, making it easy for users to quickly glance at the clock and understand the time.
 
