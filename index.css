@@ -17,7 +17,7 @@ body{
 }
 #hour{
     background-color: rgb(181, 93, 93);
-    border-top: 50%;
+    
     width: 1.25%;
     height: 24%;
     top: 30%;
@@ -45,9 +45,7 @@ body{
 } 
 #container{
     margin: auto;
-    position: relative;
-    border-style: solid;  
-    border-width: 5px;  
+    position: relative; 
     background: url('./images/clock2.png') no-repeat;
     background-color: blue;
     mix-blend-mode: hard-light;
